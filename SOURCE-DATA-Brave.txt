@@ -1,0 +1,112 @@
+Physics Chapter with number of lectures and link
+
+1. Units and Measurements-14-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-01---units-and-measurements-212362
+2. Mathematical Tools-11-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-02---mathematical-tools-653947
+3. Motion in a Straight Line-14-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-03---motion-in-a-straight-line-486050
+4. Motion in a Plane-17-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-04---motion-in-a-plane-938610
+5. Laws of Motion-17-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-05---laws-of-motion-157649
+6. Circular Motion-10-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-06---circular-motion-366321
+7. Work, Energy and Power-13-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-07---work--energy-and-power-323162
+8. Centre of Mass & System of Particles-14-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-08---centre-of-mass-and-system-of-particles-433847
+9. Rotational Motion-19-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-09---rotational-motion-340631
+10. Mechanical Properties of Fluids-12-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-10---mechanical-properties-of-fluids-389770
+11. Gravitation-5-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-11---gravitation-216614
+12. Mechanical Properties of Solids-1-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch---12---mechanical-properties-of-solids-350843
+13. Thermal Properties of Matter-7-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch---13---thermal-properties-of-matter-066476
+14. KTG & Thermodynamics-6-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch---14---ktg-and-thermodynamics-981928
+15. Oscillations-8-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch---15---oscillations-062364
+16. Waves-8-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch---16---waves-871400
+17. Instruments-2-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch---17---instruments-172089
+18. Electric Charges and Fields-24-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---01---electric-charges-and-fields-271943
+19. Electric Potential and Dipole-14-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---02---electric-potential-and-dipole-140984
+20. Current Electricity-15-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---03---current-electricity-632018
+21. Capacitance-12-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---04---capacitance-943164
+22. Moving Charges and Magnetism-14-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---05---moving-charges-and-magnetism-572738
+23. Electromagnetic Induction-12-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---06---electromagnetic-induction-371413
+24. Magnetism and Matter-3-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---07---magnetism-and-matter-472501
+25. Alternating Current-7-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---08---alternating-current-356518
+26. Electromagnetic Waves-3-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---09---electromagnetic-waves-067787
+27. Ray Optics and Optical Instruments-21-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---10---ray-optics-and-optical-instruments-843744
+28. Wave Optics-8-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---11---wave-optics-470282
+29. Dual Nature of Radiation and Matter-4-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---12---dual-nature-of-radiation-and-matter-786870
+30. Nuclei-1-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---13---nuclei-986616
+31. Atoms-3-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---14---atoms-492338
+32. Semiconductors-6-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---15---semiconductors-965707
+
+
+Chemistry Chapter with number of lectures and link
+
+1. Atomic Structure-22-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physical-chemistry-343019/subject-topics/ch-01---atomic-structure-208554
+2. Some Basic Concepts of Chemistry-15-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physical-chemistry-343019/subject-topics/ch-02---some-basic-concepts-of-chemistry-945544
+3. Classification of Elements and Periodicity in Properties-12-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/inorganic-chemistry-783898/subject-topics/ch-01---classification-of-elements-and-periodicity-in-properties-799024
+4. Chemical Bonding and Molecular Structure-19-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/inorganic-chemistry-783898/subject-topics/ch-02---chemical-bonding-and-molecular-structure-297857
+5. States of Matter-11-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physical-chemistry-343019/subject-topics/ch-03---states-of-matter-050540
+6. IUPAC Nomenclature-10-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/organic-chemistry-555021/subject-topics/ch---01---iupac-nomenclature-335044
+7. Thermodynamics-14-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physical-chemistry-343019/subject-topics/ch-04---thermodynamics-164898
+8. P-Block Elements-5-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/inorganic-chemistry-783898/subject-topics/ch-03---p-block-elements-046527
+9. Some Basic Principles and Techniques — Isomerism-17-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/organic-chemistry-555021/subject-topics/ch---02---some-basic-principles-and-techniques---isomerism-432173
+10. Chemical Equilibrium-4-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physical-chemistry-343019/subject-topics/ch-05---chemical-equilibrium-456005
+11. S-Block Elements-4-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/inorganic-chemistry-783898/subject-topics/ch---04---s-block-elements-493444
+12. Some Basic Principles and Techniques — General Organic Chemistry-14-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/organic-chemistry-555021/subject-topics/ch---03---some-basic-principles-and-techniques--general-organic-chemistry-241801
+13. Ionic Equilibrium-8-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physical-chemistry-343019/subject-topics/ch-06---ionic-equilibrium-750071
+14. Hydrogen-2-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/inorganic-chemistry-783898/subject-topics/ch---05---hydrogen-868249
+15. Purification and Characterisation of Organic Compounds-1-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/organic-chemistry-555021/subject-topics/ch---05---purification-and-characterisation-of-organic-compounds-241023
+16. Hydrocarbons-15-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/organic-chemistry-555021/subject-topics/ch---04---hydrocarbons-873988
+17. Redox Reactions-4-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physical-chemistry-343019/subject-topics/ch-07---redox-reactions-528251
+18. Environmental Chemistry-1-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/organic-chemistry-555021/subject-topics/ch---06---environmental-chemistry-069397
+19. Solutions-17-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physical-chemistry-297677/subject-topics/ch-01---solutions-353378
+20. Coordination Compounds-15-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/inorganic-chemistry-060725/subject-topics/ch-01---coordination-compounds-839856
+21. Optical Isomerism-13-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-01---optical-isomerism-412380
+22. Chemical Kinetics-13-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physical-chemistry-297677/subject-topics/ch-02---chemical-kinetics-629726
+23. P-Block Elements-6-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/inorganic-chemistry-060725/subject-topics/ch-02---the-p-block-elements--xii--223137
+24. Hydrocarbons-15-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-02---hydrocarbon-036237
+25. Electrochemistry-12-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physical-chemistry-297677/subject-topics/ch-03---electrochemistry-563267
+26. The d- and f-Block Elements-5-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/inorganic-chemistry-060725/subject-topics/ch-03---the-d-and-f-block-elements-204516
+27. Haloalkanes and Haloarenes-14-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-03---haloalkanes-and-haloarenes-167851
+28. Solid State-5-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physical-chemistry-297677/subject-topics/ch-04---solid-state-965556
+29. Principles of Qualitative Analysis — Salt Analysis-9-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/inorganic-chemistry-060725/subject-topics/ch-04---principles-of-qualitative-analysis---salt-analysis-846735
+30. Alcohols, Phenols and Ethers-7-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-04---alcohols--phenols-and-ethers-279962
+31. Surface Chemistry-1-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physical-chemistry-297677/subject-topics/ch-05---surface-chemistry-103841
+32. General Principles and Processes of Isolation of Metals-4-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/inorganic-chemistry-060725/subject-topics/ch-05---general-principles-and-processes-of-isolation-of-metals-715694
+33. Aldehydes, Ketones and Carboxylic Acids-7-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-05---aldehydes--ketones-and-carboxylic-acids-202802
+34. Amines-4-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-06---amines-698103
+35. Biomolecules-4-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-07---biomolecules-153316
+36. Polymers-1-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-08---polymers-690369
+37. Chemistry in Everyday Life-2-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-09---chemistry-in-everyday-life-736608
+38. Environmental Chemistry-1-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-10---environmental-chemistry-039948
+Maths Chapter with number of lectures and link
+
+1. Basic Mathematics-18-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---01---basic-mathematics-907677
+2. Sets-4-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---02---sets-507642
+3. Relation & Function-4-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---03---relation-and-function-456254
+4. Trigonometric Identities-12-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---04---trigonometric-identities-609392
+5. Trigonometric Equations-7-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---05---trigonometric-equations-529604
+6. Quadratic Equations-9-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---06---quadratic-equations-184576
+7. Complex Numbers - I-7-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---07---complex-numbers--i-109675
+8. Sequence and Series-10-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---08---sequence-and-series-642352
+9. Permutation and Combination-11-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---09---permutation-and-combination-217643
+10. Binomial Theorem-8-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---10---binomial-theorem-452255
+11. Straight Lines-12-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---11---straight-lines-722365
+12. Circles-10-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---12---circles-288661
+13. Parabola-9-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---13---parabola-393085
+14. Ellipse-7-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---14---ellipse-207283
+15. Complex Numbers - 2-6-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---15---complex-numbers-2-374070
+16. Hyperbola-3-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---16--hyperbola-334485
+17. Limits and Derivatives-5-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---17---limits-and-derivatives-662349
+18. Statistics-5-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---18---statistics-839470
+19. Probability-3-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---19---probability-132350
+20. Solution of Triangle-6-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---20---solution-of-triangle-608525
+21. Introduction to 3D Geometry-1-https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---21---introduction-to-3d-geometry-125311
+22. Determinants-10-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-01---determinants-575063
+23. Matrices-14-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-02---matrices-586084
+24. Relations and Functions-26-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-03---relations-and-functions-386509
+25. Inverse Trigonometric Functions-10-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-04---inverse-trigonometric-functions-378919
+26. Limit, Continuity and Differentiability-15-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-05---limit--continuity-and-differentiability-345804
+27. Method of Differentiation-7-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-06---method-of-differentiation-176223
+28. Application of Derivatives-15-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-07---application-of-derivatives-346264
+29. Indefinite Integration-8-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-08---indefinite-integration-005402
+30. Definite Integration-10-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-09---definite-integration-321433
+31. Application of Integrals-5-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-10---application-of-integrals-283026
+32. Differential Equation-6-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-11---differential-equation-103056
+33. Vector Algebra-10-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-12---vector-algebra-106599
+34. Three Dimensional Geometry-5-https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-13---three-dimensional-geometry-652685

@@ -1,0 +1,3931 @@
+{
+  "v": 7,
+  "name": "JEE OS 3.0",
+  "exam": "",
+  "theme": "dark",
+  "planStart": "2026-10-25",
+  "perDay": 2,
+  "rest": 0,
+  "balance": true,
+  "buffer": 30,
+  "chapters": [
+    {
+      "id": "JEP01",
+      "sub": "P",
+      "name": "Units and Measurements",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-01---units-and-measurements-212362",
+      "sourceOrder": 1,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP02",
+      "sub": "P",
+      "name": "Mathematical Tools",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-02---mathematical-tools-653947",
+      "sourceOrder": 2,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP03",
+      "sub": "P",
+      "name": "Motion in a Straight Line",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-03---motion-in-a-straight-line-486050",
+      "sourceOrder": 3,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP04",
+      "sub": "P",
+      "name": "Motion in a Plane",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-04---motion-in-a-plane-938610",
+      "sourceOrder": 4,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP05",
+      "sub": "P",
+      "name": "Laws of Motion",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-05---laws-of-motion-157649",
+      "sourceOrder": 5,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP06",
+      "sub": "P",
+      "name": "Circular Motion",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-06---circular-motion-366321",
+      "sourceOrder": 6,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP07",
+      "sub": "P",
+      "name": "Work, Energy and Power",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-07---work--energy-and-power-323162",
+      "sourceOrder": 7,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP08",
+      "sub": "P",
+      "name": "Centre of Mass & System of Particles",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-08---centre-of-mass-and-system-of-particles-433847",
+      "sourceOrder": 8,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP09",
+      "sub": "P",
+      "name": "Rotational Motion",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-09---rotational-motion-340631",
+      "sourceOrder": 9,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP10",
+      "sub": "P",
+      "name": "Mechanical Properties of Fluids",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-10---mechanical-properties-of-fluids-389770",
+      "sourceOrder": 10,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP11",
+      "sub": "P",
+      "name": "Gravitation",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch-11---gravitation-216614",
+      "sourceOrder": 11,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP12",
+      "sub": "P",
+      "name": "Mechanical Properties of Solids",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch---12---mechanical-properties-of-solids-350843",
+      "sourceOrder": 12,
+      "lects": [
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP13",
+      "sub": "P",
+      "name": "Thermal Properties of Matter",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch---13---thermal-properties-of-matter-066476",
+      "sourceOrder": 13,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP14",
+      "sub": "P",
+      "name": "KTG & Thermodynamics",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch---14---ktg-and-thermodynamics-981928",
+      "sourceOrder": 14,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP15",
+      "sub": "P",
+      "name": "Oscillations",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch---15---oscillations-062364",
+      "sourceOrder": 15,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP16",
+      "sub": "P",
+      "name": "Waves",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch---16---waves-871400",
+      "sourceOrder": 16,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP17",
+      "sub": "P",
+      "name": "Instruments",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physics-849093/subject-topics/ch---17---instruments-172089",
+      "sourceOrder": 17,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP18",
+      "sub": "P",
+      "name": "Electric Charges and Fields",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---01---electric-charges-and-fields-271943",
+      "sourceOrder": 18,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP19",
+      "sub": "P",
+      "name": "Electric Potential and Dipole",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---02---electric-potential-and-dipole-140984",
+      "sourceOrder": 19,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP20",
+      "sub": "P",
+      "name": "Current Electricity",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---03---current-electricity-632018",
+      "sourceOrder": 20,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP21",
+      "sub": "P",
+      "name": "Capacitance",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---04---capacitance-943164",
+      "sourceOrder": 21,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP22",
+      "sub": "P",
+      "name": "Moving Charges and Magnetism",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---05---moving-charges-and-magnetism-572738",
+      "sourceOrder": 22,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP23",
+      "sub": "P",
+      "name": "Electromagnetic Induction",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---06---electromagnetic-induction-371413",
+      "sourceOrder": 23,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP24",
+      "sub": "P",
+      "name": "Magnetism and Matter",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---07---magnetism-and-matter-472501",
+      "sourceOrder": 24,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP25",
+      "sub": "P",
+      "name": "Alternating Current",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---08---alternating-current-356518",
+      "sourceOrder": 25,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP26",
+      "sub": "P",
+      "name": "Electromagnetic Waves",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---09---electromagnetic-waves-067787",
+      "sourceOrder": 26,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP27",
+      "sub": "P",
+      "name": "Ray Optics and Optical Instruments",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---10---ray-optics-and-optical-instruments-843744",
+      "sourceOrder": 27,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP28",
+      "sub": "P",
+      "name": "Wave Optics",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---11---wave-optics-470282",
+      "sourceOrder": 28,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP29",
+      "sub": "P",
+      "name": "Dual Nature of Radiation and Matter",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---12---dual-nature-of-radiation-and-matter-786870",
+      "sourceOrder": 29,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP30",
+      "sub": "P",
+      "name": "Nuclei",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---13---nuclei-986616",
+      "sourceOrder": 30,
+      "lects": [
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP31",
+      "sub": "P",
+      "name": "Atoms",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---14---atoms-492338",
+      "sourceOrder": 31,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEP32",
+      "sub": "P",
+      "name": "Semiconductors",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physics-808489/subject-topics/ch---15---semiconductors-965707",
+      "sourceOrder": 32,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC01",
+      "sub": "C",
+      "name": "Atomic Structure",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physical-chemistry-343019/subject-topics/ch-01---atomic-structure-208554",
+      "sourceOrder": 1,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC02",
+      "sub": "C",
+      "name": "Some Basic Concepts of Chemistry",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physical-chemistry-343019/subject-topics/ch-02---some-basic-concepts-of-chemistry-945544",
+      "sourceOrder": 2,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC03",
+      "sub": "C",
+      "name": "Classification of Elements and Periodicity in Properties",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/inorganic-chemistry-783898/subject-topics/ch-01---classification-of-elements-and-periodicity-in-properties-799024",
+      "sourceOrder": 3,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC04",
+      "sub": "C",
+      "name": "Chemical Bonding and Molecular Structure",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/inorganic-chemistry-783898/subject-topics/ch-02---chemical-bonding-and-molecular-structure-297857",
+      "sourceOrder": 4,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC05",
+      "sub": "C",
+      "name": "States of Matter",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physical-chemistry-343019/subject-topics/ch-03---states-of-matter-050540",
+      "sourceOrder": 5,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC06",
+      "sub": "C",
+      "name": "IUPAC Nomenclature",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/organic-chemistry-555021/subject-topics/ch---01---iupac-nomenclature-335044",
+      "sourceOrder": 6,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC07",
+      "sub": "C",
+      "name": "Thermodynamics",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physical-chemistry-343019/subject-topics/ch-04---thermodynamics-164898",
+      "sourceOrder": 7,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC08",
+      "sub": "C",
+      "name": "P-Block Elements",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/inorganic-chemistry-783898/subject-topics/ch-03---p-block-elements-046527",
+      "sourceOrder": 8,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC09",
+      "sub": "C",
+      "name": "Some Basic Principles and Techniques — Isomerism",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/organic-chemistry-555021/subject-topics/ch---02---some-basic-principles-and-techniques---isomerism-432173",
+      "sourceOrder": 9,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC10",
+      "sub": "C",
+      "name": "Chemical Equilibrium",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physical-chemistry-343019/subject-topics/ch-05---chemical-equilibrium-456005",
+      "sourceOrder": 10,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC11",
+      "sub": "C",
+      "name": "S-Block Elements",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/inorganic-chemistry-783898/subject-topics/ch---04---s-block-elements-493444",
+      "sourceOrder": 11,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC12",
+      "sub": "C",
+      "name": "Some Basic Principles and Techniques — General Organic Chemistry",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/organic-chemistry-555021/subject-topics/ch---03---some-basic-principles-and-techniques--general-organic-chemistry-241801",
+      "sourceOrder": 12,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC13",
+      "sub": "C",
+      "name": "Ionic Equilibrium",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physical-chemistry-343019/subject-topics/ch-06---ionic-equilibrium-750071",
+      "sourceOrder": 13,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC14",
+      "sub": "C",
+      "name": "Hydrogen",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/inorganic-chemistry-783898/subject-topics/ch---05---hydrogen-868249",
+      "sourceOrder": 14,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC15",
+      "sub": "C",
+      "name": "Purification and Characterisation of Organic Compounds",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/organic-chemistry-555021/subject-topics/ch---05---purification-and-characterisation-of-organic-compounds-241023",
+      "sourceOrder": 15,
+      "lects": [
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC16",
+      "sub": "C",
+      "name": "Hydrocarbons",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/organic-chemistry-555021/subject-topics/ch---04---hydrocarbons-873988",
+      "sourceOrder": 16,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC17",
+      "sub": "C",
+      "name": "Redox Reactions",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/physical-chemistry-343019/subject-topics/ch-07---redox-reactions-528251",
+      "sourceOrder": 17,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC18",
+      "sub": "C",
+      "name": "Environmental Chemistry",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/organic-chemistry-555021/subject-topics/ch---06---environmental-chemistry-069397",
+      "sourceOrder": 18,
+      "lects": [
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC19",
+      "sub": "C",
+      "name": "Solutions",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physical-chemistry-297677/subject-topics/ch-01---solutions-353378",
+      "sourceOrder": 19,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC20",
+      "sub": "C",
+      "name": "Coordination Compounds",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/inorganic-chemistry-060725/subject-topics/ch-01---coordination-compounds-839856",
+      "sourceOrder": 20,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC21",
+      "sub": "C",
+      "name": "Optical Isomerism",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-01---optical-isomerism-412380",
+      "sourceOrder": 21,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC22",
+      "sub": "C",
+      "name": "Chemical Kinetics",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physical-chemistry-297677/subject-topics/ch-02---chemical-kinetics-629726",
+      "sourceOrder": 22,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC23",
+      "sub": "C",
+      "name": "P-Block Elements",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/inorganic-chemistry-060725/subject-topics/ch-02---the-p-block-elements--xii--223137",
+      "sourceOrder": 23,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC24",
+      "sub": "C",
+      "name": "Hydrocarbons",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-02---hydrocarbon-036237",
+      "sourceOrder": 24,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC25",
+      "sub": "C",
+      "name": "Electrochemistry",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physical-chemistry-297677/subject-topics/ch-03---electrochemistry-563267",
+      "sourceOrder": 25,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC26",
+      "sub": "C",
+      "name": "The d- and f-Block Elements",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/inorganic-chemistry-060725/subject-topics/ch-03---the-d-and-f-block-elements-204516",
+      "sourceOrder": 26,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC27",
+      "sub": "C",
+      "name": "Haloalkanes and Haloarenes",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-03---haloalkanes-and-haloarenes-167851",
+      "sourceOrder": 27,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC28",
+      "sub": "C",
+      "name": "Solid State",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physical-chemistry-297677/subject-topics/ch-04---solid-state-965556",
+      "sourceOrder": 28,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC29",
+      "sub": "C",
+      "name": "Principles of Qualitative Analysis — Salt Analysis",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/inorganic-chemistry-060725/subject-topics/ch-04---principles-of-qualitative-analysis---salt-analysis-846735",
+      "sourceOrder": 29,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC30",
+      "sub": "C",
+      "name": "Alcohols, Phenols and Ethers",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-04---alcohols--phenols-and-ethers-279962",
+      "sourceOrder": 30,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC31",
+      "sub": "C",
+      "name": "Surface Chemistry",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/physical-chemistry-297677/subject-topics/ch-05---surface-chemistry-103841",
+      "sourceOrder": 31,
+      "lects": [
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC32",
+      "sub": "C",
+      "name": "General Principles and Processes of Isolation of Metals",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/inorganic-chemistry-060725/subject-topics/ch-05---general-principles-and-processes-of-isolation-of-metals-715694",
+      "sourceOrder": 32,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC33",
+      "sub": "C",
+      "name": "Aldehydes, Ketones and Carboxylic Acids",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-05---aldehydes--ketones-and-carboxylic-acids-202802",
+      "sourceOrder": 33,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC34",
+      "sub": "C",
+      "name": "Amines",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-06---amines-698103",
+      "sourceOrder": 34,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC35",
+      "sub": "C",
+      "name": "Biomolecules",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-07---biomolecules-153316",
+      "sourceOrder": 35,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC36",
+      "sub": "C",
+      "name": "Polymers",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-08---polymers-690369",
+      "sourceOrder": 36,
+      "lects": [
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC37",
+      "sub": "C",
+      "name": "Chemistry in Everyday Life",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-09---chemistry-in-everyday-life-736608",
+      "sourceOrder": 37,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEC38",
+      "sub": "C",
+      "name": "Environmental Chemistry",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/organic-chemistry-968258/subject-topics/ch-10---environmental-chemistry-039948",
+      "sourceOrder": 38,
+      "lects": [
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM01",
+      "sub": "M",
+      "name": "Basic Mathematics",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---01---basic-mathematics-907677",
+      "sourceOrder": 1,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM02",
+      "sub": "M",
+      "name": "Sets",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---02---sets-507642",
+      "sourceOrder": 2,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM03",
+      "sub": "M",
+      "name": "Relation & Function",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---03---relation-and-function-456254",
+      "sourceOrder": 3,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM04",
+      "sub": "M",
+      "name": "Trigonometric Identities",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---04---trigonometric-identities-609392",
+      "sourceOrder": 4,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM05",
+      "sub": "M",
+      "name": "Trigonometric Equations",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---05---trigonometric-equations-529604",
+      "sourceOrder": 5,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM06",
+      "sub": "M",
+      "name": "Quadratic Equations",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---06---quadratic-equations-184576",
+      "sourceOrder": 6,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM07",
+      "sub": "M",
+      "name": "Complex Numbers - I",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---07---complex-numbers--i-109675",
+      "sourceOrder": 7,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM08",
+      "sub": "M",
+      "name": "Sequence and Series",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---08---sequence-and-series-642352",
+      "sourceOrder": 8,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM09",
+      "sub": "M",
+      "name": "Permutation and Combination",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---09---permutation-and-combination-217643",
+      "sourceOrder": 9,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM10",
+      "sub": "M",
+      "name": "Binomial Theorem",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---10---binomial-theorem-452255",
+      "sourceOrder": 10,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM11",
+      "sub": "M",
+      "name": "Straight Lines",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---11---straight-lines-722365",
+      "sourceOrder": 11,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM12",
+      "sub": "M",
+      "name": "Circles",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---12---circles-288661",
+      "sourceOrder": 12,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM13",
+      "sub": "M",
+      "name": "Parabola",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---13---parabola-393085",
+      "sourceOrder": 13,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM14",
+      "sub": "M",
+      "name": "Ellipse",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---14---ellipse-207283",
+      "sourceOrder": 14,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM15",
+      "sub": "M",
+      "name": "Complex Numbers - 2",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---15---complex-numbers-2-374070",
+      "sourceOrder": 15,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM16",
+      "sub": "M",
+      "name": "Hyperbola",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---16--hyperbola-334485",
+      "sourceOrder": 16,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM17",
+      "sub": "M",
+      "name": "Limits and Derivatives",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---17---limits-and-derivatives-662349",
+      "sourceOrder": 17,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM18",
+      "sub": "M",
+      "name": "Statistics",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---18---statistics-839470",
+      "sourceOrder": 18,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM19",
+      "sub": "M",
+      "name": "Probability",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---19---probability-132350",
+      "sourceOrder": 19,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM20",
+      "sub": "M",
+      "name": "Solution of Triangle",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---20---solution-of-triangle-608525",
+      "sourceOrder": 20,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM21",
+      "sub": "M",
+      "name": "Introduction to 3D Geometry",
+      "url": "https://pwthor.live/study/batches/65d86238cdb6ea00181bdcfe/subjects/maths-068943/subject-topics/ch---21---introduction-to-3d-geometry-125311",
+      "sourceOrder": 21,
+      "lects": [
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM22",
+      "sub": "M",
+      "name": "Determinants",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-01---determinants-575063",
+      "sourceOrder": 22,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM23",
+      "sub": "M",
+      "name": "Matrices",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-02---matrices-586084",
+      "sourceOrder": 23,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM24",
+      "sub": "M",
+      "name": "Relations and Functions",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-03---relations-and-functions-386509",
+      "sourceOrder": 24,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM25",
+      "sub": "M",
+      "name": "Inverse Trigonometric Functions",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-04---inverse-trigonometric-functions-378919",
+      "sourceOrder": 25,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM26",
+      "sub": "M",
+      "name": "Limit, Continuity and Differentiability",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-05---limit--continuity-and-differentiability-345804",
+      "sourceOrder": 26,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM27",
+      "sub": "M",
+      "name": "Method of Differentiation",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-06---method-of-differentiation-176223",
+      "sourceOrder": 27,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM28",
+      "sub": "M",
+      "name": "Application of Derivatives",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-07---application-of-derivatives-346264",
+      "sourceOrder": 28,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM29",
+      "sub": "M",
+      "name": "Indefinite Integration",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-08---indefinite-integration-005402",
+      "sourceOrder": 29,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM30",
+      "sub": "M",
+      "name": "Definite Integration",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-09---definite-integration-321433",
+      "sourceOrder": 30,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM31",
+      "sub": "M",
+      "name": "Application of Integrals",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-10---application-of-integrals-283026",
+      "sourceOrder": 31,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM32",
+      "sub": "M",
+      "name": "Differential Equation",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-11---differential-equation-103056",
+      "sourceOrder": 32,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM33",
+      "sub": "M",
+      "name": "Vector Algebra",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-12---vector-algebra-106599",
+      "sourceOrder": 33,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JEM34",
+      "sub": "M",
+      "name": "Three Dimensional Geometry",
+      "url": "https://pwthor.live/study/batches/65dc6fbabb55350018d555b7/subjects/maths-055647/subject-topics/ch-13---three-dimensional-geometry-652685",
+      "sourceOrder": 34,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ],
+      "custom": false
+    }
+  ],
+  "rev": {},
+  "focus": {},
+  "rlog": {},
+  "snz": {},
+  "tres": [],
+  "tplan": [],
+  "td": null,
+  "dpp": {},
+  "practice": {},
+  "schedulerVersion": 8
+}
